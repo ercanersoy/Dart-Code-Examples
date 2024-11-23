@@ -6,4 +6,5 @@ These files licensed by MIT License.
 
 ## Examples List
 
+* [Average](average)
 * [Hello World](hello-world)
