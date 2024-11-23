@@ -7,4 +7,5 @@ These files licensed by MIT License.
 ## Examples List
 
 * [Average](average)
+* [Counter](counter)
 * [Hello World](hello-world)
