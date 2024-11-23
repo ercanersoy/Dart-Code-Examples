@@ -9,3 +9,4 @@ These files licensed by MIT License.
 * [Average](average)
 * [Counter](counter)
 * [Hello World](hello-world)
+* [Prime Numbers](prime-numbers)

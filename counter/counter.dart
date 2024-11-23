@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2024 Ercan Ersoy
 //
-// This software is released under the MIT License.
+// This example is released under the MIT License.
 //
 // ChatGPT GPT-4o was used for this example.
 
